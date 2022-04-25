@@ -1,2 +1,2 @@
-# HITSmodule8
-HITS GameDev Module
+# Hide and seek shooter
+GameDev Module
